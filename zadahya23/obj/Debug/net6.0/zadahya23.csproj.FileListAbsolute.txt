@@ -1,0 +1,15 @@
+C:\C#_Seminar3_DZ\zadahya23\bin\Debug\net6.0\zadahya23.exe
+C:\C#_Seminar3_DZ\zadahya23\bin\Debug\net6.0\zadahya23.deps.json
+C:\C#_Seminar3_DZ\zadahya23\bin\Debug\net6.0\zadahya23.runtimeconfig.json
+C:\C#_Seminar3_DZ\zadahya23\bin\Debug\net6.0\zadahya23.dll
+C:\C#_Seminar3_DZ\zadahya23\bin\Debug\net6.0\zadahya23.pdb
+C:\C#_Seminar3_DZ\zadahya23\obj\Debug\net6.0\zadahya23.csproj.AssemblyReference.cache
+C:\C#_Seminar3_DZ\zadahya23\obj\Debug\net6.0\zadahya23.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#_Seminar3_DZ\zadahya23\obj\Debug\net6.0\zadahya23.AssemblyInfoInputs.cache
+C:\C#_Seminar3_DZ\zadahya23\obj\Debug\net6.0\zadahya23.AssemblyInfo.cs
+C:\C#_Seminar3_DZ\zadahya23\obj\Debug\net6.0\zadahya23.csproj.CoreCompileInputs.cache
+C:\C#_Seminar3_DZ\zadahya23\obj\Debug\net6.0\zadahya23.dll
+C:\C#_Seminar3_DZ\zadahya23\obj\Debug\net6.0\refint\zadahya23.dll
+C:\C#_Seminar3_DZ\zadahya23\obj\Debug\net6.0\zadahya23.pdb
+C:\C#_Seminar3_DZ\zadahya23\obj\Debug\net6.0\zadahya23.genruntimeconfig.cache
+C:\C#_Seminar3_DZ\zadahya23\obj\Debug\net6.0\ref\zadahya23.dll
